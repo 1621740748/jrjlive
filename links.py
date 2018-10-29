@@ -35,7 +35,8 @@ def downloadRun(url):
     try:
         a,b=geturl(url)
         print("title=",a)
-        print("vurl=",b)  
+        print("vurl=",b) 
+        a=a.replace(":","")
         file=dir+a+".mp4"
         download(b,file)
     except IOError as e:
