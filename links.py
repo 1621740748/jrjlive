@@ -43,7 +43,7 @@ print(list)
 threads=[]
 for u  in list:
     try:
-       t= threading.Thread(target=downloadRun,args=(u,))
+       t= threading.Thread(target=downloadRun,args=(u.strip(),))
        threads.append(t)
        t.start()
     except IOError as e:
