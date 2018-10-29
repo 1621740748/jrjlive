@@ -29,7 +29,7 @@ dir="c:\\download11\\"
 def downloadRun(url):
     s1.acquire()
     try:
-        a,b=geturl(u)
+        a,b=geturl(url)
         print("title=",a)
         print("vurl=",b)  
         file=dir+a+".mp4"
