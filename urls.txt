@@ -1700,4 +1700,229 @@
 						   		</li>
 						   								</ul>
 						</li>
-															</ul>														
+															</ul>	
+															<ul class="classUl">
+															  	<li><i class="icon"></i>
+						  	<h3>[基金]基金投资入门</h3>
+							<ul>
+															<li>
+						   			<a href="http://v.jrj.com.cn/2013-02-07/000000024081.shtml">(九)基金定投的优势</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-02-06/000000024078.shtml">(八)跟踪基金必看的指标</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-02-05/000000024075.shtml">(七)购买基金的渠道及流程</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-02-04/000000024071.shtml">(六)基金交易涉及哪些费用？</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-02-01/000000024065.shtml">(五)选基金必看的四项指标</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-01-31/000000024054.shtml">(四)投资基金的核心环节</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-01-30/000000024050.shtml">(三)投资基金“三步走战术”</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-01-29/000000024042.shtml">(二)基金可分哪几类？</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-01-28/000000024038.shtml">(一)基金有哪些特点？</a>
+						   		</li>
+						   								</ul>
+						</li>
+																  	<li class="grey"><i class="icon"></i>
+						  	<h3>[白银]白银投资入门</h3>
+							<ul>
+															<li>
+						   			<a href="http://v.jrj.com.cn/2013-06-26/000000024657.shtml">(七)详解地缘政治对银价的影响</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-06-25/000000024654.shtml">(六)供求、估值等基本面的优势</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-06-24/000000024651.shtml">(五)见价成交、税费的优势</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-06-21/000000024645.shtml">(四)止盈止损、无涨跌停限制优势</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-06-20/000000024639.shtml">(三)市场参与资金量、无庄的优势</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-06-19/000000024626.shtml">(二)双向交易、以小博大的优势</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-06-18/000000024623.shtml">(一)T+0、24小时交易的优势</a>
+						   		</li>
+						   								</ul>
+						</li>
+																  	<li><i class="icon"></i>
+						  	<h3>[黄金]黄金基本面分析</h3>
+							<ul>
+															<li>
+						   			<a href="http://v.jrj.com.cn/2013-06-17/000000024619.shtml">(十九)黄金期货最后交易日对金价影响</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-06-14/000000024616.shtml">(十八)黄金期货对金价的影响</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-06-13/000000024613.shtml">(十七)“四巫聚首日”对金价影响</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-06-09/000000024602.shtml">(十六)现货黄金的最佳交易时段</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-06-08/000000024601.shtml">(十五)金价与其他资产联动性(下)</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-06-07/000000024591.shtml">(十四)金价与其他资产联动性(上)</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-05-22/000000024520.shtml">(十三)影响金价的重要数据解读</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-05-22/000000024519.shtml">(十二)其他重要经济数据和金价</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-05-21/000000024516.shtml">(十一)欧央行利率和金价</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-05-20/000000024504.shtml">(十)美联储主席讲话和金价</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-05-17/000000024493.shtml">(九)美国就业数据和金价(四)</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-05-17/000000024492.shtml">(八)美国就业数据和金价(三)</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-05-16/000000024489.shtml">(七)美国就业数据和金价(二)</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-05-16/000000024488.shtml">(六)美国就业数据和金价(一)</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-05-15/000000024471.shtml">(五)供求影响价格—谁在买黄金?(下)</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-05-15/000000024470.shtml">(四)供求影响价格—谁在买黄金?(上)</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-05-14/000000024457.shtml">(三)供求影响价格：黄金供应难</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-05-13/000000024454.shtml">(二)根据黄金总成本判断金价</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-05-10/000000024451.shtml">(一)根据黄金现金成本判断金价</a>
+						   		</li>
+						   								</ul>
+						</li>
+																  	<li class="grey"><i class="icon"></i>
+						  	<h3>[黄金]现货黄金投资分析</h3>
+							<ul>
+															<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-16/000000024352.shtml">(二十一)黄金交易中不宜的操作</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-15/000000024347.shtml">(二十)黄金交易诀窍总结</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-15/000000024346.shtml">(十九)投资者应如何计算风报比</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-12/000000024339.shtml">(十八)投资者应当如何设置仓位</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-11/000000024333.shtml">(十七)用黄金分割线判断平仓点</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-11/000000024332.shtml">(十六)用均线判断平仓点</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-10/000000024327.shtml">(十五)用K线趋势线等判断平仓点</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-09/000000024320.shtml">(二十四)用追踪止损设定平仓点</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-08/000000024316.shtml">(十三)用均线黄金分割线判断止损</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-07/000000024314.shtml">(十二)用趋势线和形态判断止损点</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-03/000000024311.shtml">(十一)用K线判断止损点</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-02/000000024308.shtml">(十)用黄金分割线判断开仓点(下)</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-02/000000024307.shtml">(九)用黄金分割线判断开仓点(上)</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-01/000000024301.shtml">(八)用均线判断开仓点（下）</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-04-01/000000024300.shtml">(七)用均线判断开仓点（上）</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-03-29/000000024295.shtml">(六)用经典K线形态判断开仓点</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-03-28/000000024289.shtml">(五)用趋势线判断开仓点(下)</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-03-28/000000024288.shtml">(四)用趋势线判断开仓点(上)</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-03-27/000000024276.shtml">(三)用K线判断开仓点</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-03-26/000000024273.shtml">(二)如何用杠杆控制仓位</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2013-03-26/000000024272.shtml">(一)如何计算黄金风险和收益</a>
+						   		</li>
+						   								</ul>
+						</li>
+																  	<li><i class="icon"></i>
+						  	<h3>[黄金]黄金投资入门</h3>
+							<ul>
+															<li>
+						   			<a href="http://v.jrj.com.cn/2012-09-19/000000023332.shtml">（十）黄金衍生品投资（下）</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2012-09-19/000000023331.shtml">（九）黄金衍生品投资（中）</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2012-09-19/000000023330.shtml">（八）黄金衍生品投资（上）</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2012-09-19/000000023329.shtml">（七）纸黄金投资（下）</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2012-09-19/000000023328.shtml">（六）纸黄金投资（上）</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2012-09-19/000000023327.shtml">（五）实物黄金投资（下）</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2012-09-19/000000023326.shtml">（四）实物黄金投资（上）</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2012-09-19/000000023325.shtml">（三）黄金投资品种</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2012-09-19/000000023324.shtml">（二）哪些人能炒黄金？</a>
+						   		</li>
+						   									<li>
+						   			<a href="http://v.jrj.com.cn/2012-09-19/000000023323.shtml">（一）金价上涨由何决定？</a>
+						   		</li>
+						   								</ul>
+						</li>
+															</ul>													
