@@ -2,7 +2,8 @@
 import requests;
 import re
 import threading
-s1=threading.Semaphore(5)
+import os
+s1=threading.Semaphore(15)
 def geturl( url):
     c=requests.get(url)
     #print(c.content)
@@ -18,6 +19,9 @@ def geturl( url):
         vurl=videoUrlO.group(1)
     return (title,vurl)
 def download(url,file):
+    flag=os.path.exists(file)
+    if flag:
+        return;
     c=requests.get(url)
     f=open(file,'wb')
     f.write(c.content) 
