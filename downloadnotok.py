@@ -4,15 +4,9 @@ import re
 import threading
 import os
 s1=threading.Semaphore(15)
-def downloadnotok(url,file,start):
-        # 核心部分，这个是请求下载时，从本地文件已经下载过的后面下载
-    headers = {'Range': 'bytes=%d-' % start}  
-    # 重新请求网址，加入新的请求头的
-    r = requests.get(url, stream=True, verify=False, headers=headers)
-
-    # 下面写入文件也要注意，看到"ab"了吗？
-    # "ab"表示追加形式写入文件
-    with open(file, "ab") as f:
+def downloadnotok(url,file):
+    r = requests.get(url, stream=True, verify=False)
+    with open(file, "wb") as f:
         for chunk in r.iter_content(chunk_size=1024):
             if chunk:
                 start += len(chunk)
@@ -45,11 +39,7 @@ def download(url,file):
     # 显示一下下载了多少   
     if temp_size!=total_size:
         print(file)
-        downloadnotok(url, file, temp_size)
-    #c=requests.get(url)
-    #f=open(file,'wb')
-    #f.write(c.content) 
-    #f.close()       
+        downloadnotok(url, file)   
         
 
 dir="c:\\download11\\"
