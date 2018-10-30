@@ -5,6 +5,7 @@ import threading
 import os
 s1=threading.Semaphore(15)
 def downloadnotok(url,file):
+    start=0
     r = requests.get(url, stream=True, verify=False)
     with open(file, "wb") as f:
         for chunk in r.iter_content(chunk_size=1024):
