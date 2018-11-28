@@ -29,7 +29,7 @@ def download(url,file):
         
 url="http://v.jrj.com.cn/2015-09-23/000000027276.shtml"
 
-dir="c:\\download11\\"
+dir="d:\\download11\\"
 def downloadRun(url):
     s1.acquire()
     try:
